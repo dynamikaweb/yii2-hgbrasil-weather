@@ -1,5 +1,5 @@
 {
-    "name": "dynamikaweb/yii2-template",
+    "name": "dynamikaweb/yii2-hgbrasil-weather",
     "description": "",
     "type": "yii2-extension",
     "keywords": [
@@ -21,8 +21,8 @@
         }
     ],
     "support": {
-        "issues": "http://github.com/dynamikaweb/yii2-template/issues",
-        "source": "http://github.com/dynamikaweb/yii2-template"
+        "issues": "http://github.com/dynamikaweb/yii2-hgbrasil-weather/issues",
+        "source": "http://github.com/dynamikaweb/yii2-hgbrasil-weather"
     },
     "require": {
         "php": ">=7.4.0",
@@ -32,7 +32,7 @@
     "prefer-stable": false,
     "autoload": {
         "psr-4": {
-            "dynamikaweb\\": "src"
+            "dynamikaweb\\weather\\": "src"
         }
     }
 }
