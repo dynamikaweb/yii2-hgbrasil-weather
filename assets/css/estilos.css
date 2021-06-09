@@ -1,0 +1,49 @@
+.weather-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.weather-temp {
+    font-size: 28px;
+    font-weight: bold;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.weather-temp span{
+    font-size: 12px;
+    height: 30px;
+    padding-left: 3px;
+    display: flex;
+}
+
+.weather-day {
+    text-align: center;
+    padding: 0 5px;
+}
+
+.weather-day > span {
+    font-size: 12px;
+    font-weight: 700;
+
+}
+
+.weather-image {
+    display: flex;
+    align-items: center;
+}
+.weather-image img {
+    height: 40px;
+    padding: 2px 5px;
+    display: flex;
+    align-items: center;
+}
+
+.weather-max-min {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+

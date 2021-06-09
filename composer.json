@@ -1,6 +1,6 @@
 {
     "name": "dynamikaweb/yii2-hgbrasil-weather",
-    "description": "",
+    "description": "HGBrasil api, weather, previsao do tempo",
     "type": "yii2-extension",
     "keywords": [
         "dynamika",
