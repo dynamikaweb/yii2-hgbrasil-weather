@@ -45,7 +45,7 @@ Add it to your components
     'weather' => [
         'class' => \dynamikaweb\weather\components\WeatherApi::className(),
         'key' => 'Your key, you can get it from HG Brasil',
-        'parametros' => [
+        'parameters' => [
             'city_name' => 'Canoas,RS',
         ] 
     ],
